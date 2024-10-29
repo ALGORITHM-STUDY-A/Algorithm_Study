@@ -1,0 +1,1 @@
+solution = lambda a, b : a // b # // : 몫을 구하는 연산자 입니다.
