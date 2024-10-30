@@ -1,0 +1,1 @@
+solution = lambda a, b : 1 if a == b else -1 #파이썬의 삼항연산자입니다. ture면 왼쪽 false면 오른쪽 값을 리턴합니다.

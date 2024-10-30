@@ -1,0 +1,1 @@
+solution = lambda numbers : [2*i for i in numbers] #리스트 값들에 각각 2를 곱한 후 리스트를 만드는 람다함수 입니다.

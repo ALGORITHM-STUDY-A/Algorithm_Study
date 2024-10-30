@@ -1,0 +1,1 @@
+solution = lambda a, b : int(a / b * 1000) #람다 함수 활용한 풀이입니다. 소수 부분은 int 처리하여 날렸습니다.
