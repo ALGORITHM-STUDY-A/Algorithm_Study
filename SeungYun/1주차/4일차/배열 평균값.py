@@ -1,0 +1,1 @@
+solution = lambda n: sum(n)/len(n) # 간단
