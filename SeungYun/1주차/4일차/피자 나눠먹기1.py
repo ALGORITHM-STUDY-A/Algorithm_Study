@@ -1,0 +1,1 @@
+solution = lambda n: n//7 if n % 7 == 0 else n//7 + 1 # 삼항연산자 활용한 풀이 입니다.
