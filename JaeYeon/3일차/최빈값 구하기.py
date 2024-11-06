@@ -5,9 +5,6 @@ def solution(array):
     watch={}
 
     for i in range(n):
-        watch[array[i]]=0
-
-    for i in range(n):
 
         watch[array[i]]+=1
         a=watch[array[i]]
@@ -47,7 +44,7 @@ def solutionV2(array):
         return -1
 
     return mode_candidates[0]
-print(solution([1]))
+print(solution([1,2,3,3,3,4]))
 
 """
 1. 리스트에서 변수를 가져옵니다
